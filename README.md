@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ketan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="300" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img align="right" alt="coding" width="300" src="https://media3.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47kc099l43xr0p7os77fkpoqie8xrcom6oz71mbww6&rid=giphy.gif&ct=g">
 
 <p align="left"> <a href="https://twitter.com/ket_0626" target="blank"><img src="https://img.shields.io/twitter/follow/ket_0626?logo=twitter&style=for-the-badge" alt="ket_0626" /></a> </p>
 
@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ket_0626" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ket_0626" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ketan-patil-2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ketan-patil-2001/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ket0626/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ketan-patil-2001/" height="30" width="40" /></a>
 <a href="https://instagram.com/ket_0601/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ket_0601/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ketanpatil748" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ketanpatil748" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ketu2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ketu2001/" height="30" width="40" /></a>
