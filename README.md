@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ketan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="300" src="https://media3.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47kc099l43xr0p7os77fkpoqie8xrcom6oz71mbww6&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="300" src="https://c.tenor.com/TlnjtoRJWOsAAAAj/moving-man.gif">
 
 <p align="left"> <a href="https://twitter.com/ket_0626" target="blank"><img src="https://img.shields.io/twitter/follow/ket_0626?logo=twitter&style=for-the-badge" alt="ket_0626" /></a> </p>
 
