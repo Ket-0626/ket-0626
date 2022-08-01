@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/ket_0626" target="blank"><img src="https://img.shields.io/twitter/follow/ket_0626?logo=twitter&style=for-the-badge" alt="ket_0626" /></a> </p>
 
-- 🔭 I’m currently working on **MY PORTFOLIO 🤗**
+<!-- - 🔭 I’m currently working on **MY PORTFOLIO 🤗** -->
 
 - 🌱 I’m currently learning **Everything 😅**
 
