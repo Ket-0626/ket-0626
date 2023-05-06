@@ -6,7 +6,9 @@
   <a href="mailto:Ketanpatil748@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
    <a href="https://www.instagram.com/ket_0626/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
     <a href="https://twitter.com/Ket_0626"><img alt="Twitter" src="https://img.shields.io/twitter/url?color=blue&label=Twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FKet_0626"</a>
+       <a href="https://discord.gg/GrBASSRa"><img alt="Discord" src="https://img.shields.io/discord/1104499214437859423?label=Discord&style=for-the-badge"</a>
 </div>
+  
 
 <h3 align="left">Web Tech Stack :</h3>
 <div align="left">
