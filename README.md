@@ -9,7 +9,6 @@
        <a href="https://discord.gg/GrBASSRa"><img alt="Discord" src="https://img.shields.io/discord/1104499214437859423?label=Discord&style=for-the-badge"</a>
 </div>
   
-
 <h3 align="left">Web Tech Stack :</h3>
 <div align="left">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
