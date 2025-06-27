@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://ketanpatil.vercel.app" target="_blank">Ketan Patil</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://ketanp.vercel.app" target="_blank">Ketan Patil</a></h1>
 
 <p align="center">
   💻 Full Stack Developer | Java & MERN Stack | Firebase Enthusiast  
